@@ -1,0 +1,9 @@
+../Core/Src/FifoBuffer.c:37:11:CreateBuffer	1
+../Core/Src/FifoBuffer.c:54:6:WriteBuffer	1
+../Core/Src/FifoBuffer.c:64:7:ReadBuffer	1
+../Core/Src/FifoBuffer.c:77:7:ReturnCurrentPositionBuffer	5
+../Core/Src/FifoBuffer.c:115:6:IncIterator	2
+../Core/Src/FifoBuffer.c:122:6:DecIterator	2
+../Core/Src/FifoBuffer.c:129:6:ResetParameters	2
+../Core/Src/FifoBuffer.c:140:6:EraseBuffer	1
+../Core/Src/FifoBuffer.c:148:13:NumberOfElemnts	1
